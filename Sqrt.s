@@ -3,7 +3,7 @@
 # Sqrt.s
 
 	.data				# variable declarations follow this line
-x:	.float	-5			# number to calculate for square root
+x:	.float	5.0			# number to calculate for square root
 two:	.float	2.0			# for dividing by 2
 zero:	.float	0.0			# for copying data
 round:	.float	100.0			# for rounding - change to 10.0 if runtime is too long
